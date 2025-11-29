@@ -21,6 +21,7 @@ app = dash.Dash(
     external_stylesheets=["https://codepen.io/chriddyp/pen/bWLwgP.css"]
 )
 app.title = "World Energy Consumption Dashboard"
+server = app.server  # Expose the Flask server for deployment
 
 # Define custom style
 CUSTOM_STYLE = {
