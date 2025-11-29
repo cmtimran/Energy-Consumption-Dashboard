@@ -14,6 +14,11 @@ An interactive data visualization dashboard for analyzing global energy consumpt
 *University of Debrecen*  
 *Data Visualization Lab - 1st Semester*
 
+## 📸 Screenshots
+
+![Dashboard Screenshot](ScreenShoot/screencapture-127-0-0-1-8050-2025-11-29-21_34_03.png)
+*Interactive Energy Consumption Dashboard showing multiple visualizations including pie charts, line graphs, maps, and correlation heatmaps*
+
 ## 📊 Project Description
 
 This comprehensive dashboard provides in-depth analysis of global energy consumption patterns across multiple countries and time periods. The visualizations help identify:
