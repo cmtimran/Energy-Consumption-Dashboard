@@ -8,13 +8,13 @@ An interactive data visualization dashboard for analyzing global energy consumpt
 ![Dash](https://img.shields.io/badge/Dash-Framework-red)
 ![Plotly](https://img.shields.io/badge/Plotly-Visualization-orange)
 
-## � Authors
+## 👨‍💻 Authors
 
 **Imran Hossain** & **Nabid Osman**  
 *University of Debrecen*  
 *Data Visualization Lab - 1st Semester*
 
-## �📊 Project Description
+## 📊 Project Description
 
 This comprehensive dashboard provides in-depth analysis of global energy consumption patterns across multiple countries and time periods. The visualizations help identify:
 
