@@ -1077,13 +1077,22 @@ All libraries used are open-source:
 If you use this project in academic work, please cite:
 
 ```bibtex
-@software{energy_dashboard_2025,
+@software{energy_dashboard_2025_hossain,
   title = {World Energy Consumption Dashboard},
-  author = {Imran Hossain and Nabid Osman},
+  author = {Hossain, Imran},
   year = {2025},
   institution = {University of Debrecen},
   course = {Data Visualization Lab},
   url = {https://github.com/cmtimran/Energy-Consumption-Dashboard}
+}
+
+@software{energy_dashboard_2025_osman,
+  title = {World Energy Consumption Dashboard},
+  author = {Osman, Nabid},
+  year = {2025},
+  institution = {University of Debrecen},
+  course = {Data Visualization Lab},
+  url = {https://github.com/NabidOsman/Energy-Consumption-Dashboard}
 }
 ```
 
