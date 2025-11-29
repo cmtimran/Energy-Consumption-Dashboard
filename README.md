@@ -1097,7 +1097,7 @@ If you use this project in academic work, please cite:
   year = {2025},
   institution = {University of Debrecen},
   course = {Data Visualization Lab},
-  url = {https://github.com/NabidOsman/Energy-Consumption-Dashboard}
+  url = {https://github.com/Nabid08}
 }
 ```
 
