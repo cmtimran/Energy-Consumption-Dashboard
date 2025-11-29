@@ -8,7 +8,13 @@ An interactive data visualization dashboard for analyzing global energy consumpt
 ![Dash](https://img.shields.io/badge/Dash-Framework-red)
 ![Plotly](https://img.shields.io/badge/Plotly-Visualization-orange)
 
-## 📊 Project Description
+## � Authors
+
+**Imran Hossain** & **Nabid Osman**  
+*University of Debrecen*  
+*Data Visualization Lab - 1st Semester*
+
+## �📊 Project Description
 
 This comprehensive dashboard provides in-depth analysis of global energy consumption patterns across multiple countries and time periods. The visualizations help identify:
 
@@ -1073,11 +1079,11 @@ If you use this project in academic work, please cite:
 ```bibtex
 @software{energy_dashboard_2025,
   title = {World Energy Consumption Dashboard},
-  author = {Your Name},
+  author = {Imran Hossain and Nabid Osman},
   year = {2025},
   institution = {University of Debrecen},
   course = {Data Visualization Lab},
-  url = {https://github.com/yourusername/energy-dashboard}
+  url = {https://github.com/cmtimran/Energy-Consumption-Dashboard}
 }
 ```
 
