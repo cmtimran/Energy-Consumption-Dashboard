@@ -124,46 +124,7 @@ python app.py
 
 The dashboard will be available at: **http://127.0.0.1:8050/**
 
-## 🌐 Deployment (Hosting Online)
-
-This dashboard can be hosted online for free using **Render**. The project is already configured with the necessary deployment files.
-
-### Deploy to Render (Recommended - Free)
-
-1. **Sign up** at [render.com](https://render.com) (free account)
-
-2. **Create a New Web Service**:
-   - Click "New +" → "Web Service"
-   - Connect your GitHub repository: `https://github.com/cmtimran/Energy-Consumption-Dashboard`
-   - Render will auto-detect it's a Python app
-
-3. **Configure the service**:
-   - **Name**: `energy-dashboard` (or your choice)
-   - **Environment**: `Python 3`
-   - **Build Command**: `pip install -r requirements.txt`
-   - **Start Command**: `gunicorn app:server`
-   - **Instance Type**: `Free`
-
-4. **Deploy**:
-   - Click "Create Web Service"
-   - Render will automatically build and deploy your app
-   - You'll get a live URL like: `https://energy-dashboard.onrender.com`
-
-### Alternative Hosting Options
-
-- **Heroku**: Similar to Render, uses the same `Procfile` and `requirements.txt`
-- **PythonAnywhere**: Good for Python apps, requires manual setup
-- **Railway**: Modern platform with free tier
-
-### Deployment Files Included
-
-- `Procfile` - Tells the platform how to run the app
-- `requirements.txt` - Lists all Python dependencies
-- `app.py` - Already configured with `server = app.server` for deployment
-
-**Note**: The free tier on Render may spin down after inactivity, so the first load might take 30-60 seconds.
-
-## 🎨 Design & Styling
+##  Design & Styling
 
 ### Color Scheme
 - **Primary Color**: #2C3E50 (Dark Blue-Gray)
