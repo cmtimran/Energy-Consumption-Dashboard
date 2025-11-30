@@ -14,10 +14,12 @@ An interactive data visualization dashboard for analyzing global energy consumpt
 *University of Debrecen*  
 *Data Visualization Lab - 1st Semester*
 
-## 📸 Screenshots
+## 🌐 Live Demo
 
-![Dashboard Screenshot](ScreenShoot/screencapture-127-0-0-1-8050-2025-11-29-21_34_03.png)
-*Interactive Energy Consumption Dashboard showing multiple visualizations including pie charts, line graphs, maps, and correlation heatmaps*
+**🚀 [View Live Dashboard](https://energy-consumption-dashboard-n645.onrender.com/)**
+
+Experience the interactive dashboard online! The application is hosted on Render and accessible worldwide.
+
 
 ## 📊 Project Description
 
